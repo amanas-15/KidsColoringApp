@@ -18,5 +18,32 @@
 - **Personal Gallery:** Store and organize artwork in a personal gallery.
 - **Multi-Language Support:** Designed for kids around the world with support for multiple languages.
 
----
+📸 Screenshots
+Check out some screenshots of the Kids Coloring App in action!
+![image](https://github.com/user-attachments/assets/f011e1b9-6e8f-4f67-b43f-635fe2a4ebff)
+
+
+
+Home screen showcasing the vibrant and friendly design.
+![image](https://github.com/user-attachments/assets/62f86c7b-26d1-48bd-bb51-4128b3200864)
+
+
+
+A sneak peek at the diverse collection of coloring pages.
+![image](https://github.com/user-attachments/assets/970a03e7-ec67-49b0-8f3d-64e81c3fe65c)
+
+
+
+Watch creativity come to life with our intuitive coloring tools.
+![image](https://github.com/user-attachments/assets/f7bd832d-9b02-485c-9624-3a203018e01f)
+
+
+
+Organize and revisit your favorite artworks in the gallery.
+![image](https://github.com/user-attachments/assets/b21bb209-3819-4090-8e50-b691bd6bcbcc)
+![image](https://github.com/user-attachments/assets/ee091175-8992-4b0b-bfba-181b6857a74c)
+
+
+
+
 
